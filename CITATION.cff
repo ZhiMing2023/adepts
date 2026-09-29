@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use ADEPTS, please cite the software and associated manuscript."
+title: "ADEPTS"
+type: software
+version: "0.1.0"
+license: GPL-3.0-only
+authors:
+  - family-names: Ming
+    given-names: Zhiying
+    affiliation: Department of Earth and Space Sciences, Southern University of Science and Technology
+  - family-names: Hu
+    given-names: Jiashun
+    email: hujs@sustech.edu.cn
+    affiliation: Guangdong Provincial Key Laboratory of Geophysical High-resolution Imaging Technology, Southern University of Science and Technology
+preferred-citation:
+  type: article
+  title: "ADEPTS: An auto-differentiable framework for time-dependent nonlinear thermo-chemical mantle convection inversion"
+  authors:
+    - family-names: Ming
+      given-names: Zhiying
+    - family-names: Hu
+      given-names: Jiashun
+  year: 2026
+  journal: "arXiv preprint arXiv:2609.13482"
+  doi: 10.48550/arXiv.2609.13482
+  url: "https://arxiv.org/abs/2609.13482"
