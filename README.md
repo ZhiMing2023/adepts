@@ -8,6 +8,8 @@ ADEPTS is the research code accompanying the preprint:
 thermo-chemical mantle convection inversion" (arXiv:2609.13482). It combines
 staggered-grid finite differences with automatic and implicit differentiation
 for forward and inverse mantle-convection problems.
+For now, it is implemented with a two-dimensional cartesian geometry, suitable
+for regional-scale Earth and planetary tectonic problems.
 This repository contains only source code, benchmark definitions, and case
 scripts. Observations and other numerical outputs are generated locally and
 are not distributed in the repository.
