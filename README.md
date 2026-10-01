@@ -229,6 +229,11 @@ archived). Citation metadata is also provided in `CITATION.cff`.
 - Jiashun Hu (corresponding author), Southern University of Science and
   Technology: `hujs@sustech.edu.cn`
 
+## Acknowledgements
+
+The staggered-grid discretization follows the formulation in Gerya (2019); see
+the paper for the full method references.
+
 ## License
 
 ADEPTS is licensed under `GPL-3.0-only`; see `LICENSE`. Reused code attribution
